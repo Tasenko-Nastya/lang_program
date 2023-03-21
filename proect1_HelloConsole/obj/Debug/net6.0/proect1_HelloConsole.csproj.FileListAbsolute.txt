@@ -1,0 +1,15 @@
+D:\Lang_program\lekcia\proect1_HelloConsole\bin\Debug\net6.0\proect1_HelloConsole.exe
+D:\Lang_program\lekcia\proect1_HelloConsole\bin\Debug\net6.0\proect1_HelloConsole.deps.json
+D:\Lang_program\lekcia\proect1_HelloConsole\bin\Debug\net6.0\proect1_HelloConsole.runtimeconfig.json
+D:\Lang_program\lekcia\proect1_HelloConsole\bin\Debug\net6.0\proect1_HelloConsole.dll
+D:\Lang_program\lekcia\proect1_HelloConsole\bin\Debug\net6.0\proect1_HelloConsole.pdb
+D:\Lang_program\lekcia\proect1_HelloConsole\obj\Debug\net6.0\proect1_HelloConsole.csproj.AssemblyReference.cache
+D:\Lang_program\lekcia\proect1_HelloConsole\obj\Debug\net6.0\proect1_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lang_program\lekcia\proect1_HelloConsole\obj\Debug\net6.0\proect1_HelloConsole.AssemblyInfoInputs.cache
+D:\Lang_program\lekcia\proect1_HelloConsole\obj\Debug\net6.0\proect1_HelloConsole.AssemblyInfo.cs
+D:\Lang_program\lekcia\proect1_HelloConsole\obj\Debug\net6.0\proect1_HelloConsole.csproj.CoreCompileInputs.cache
+D:\Lang_program\lekcia\proect1_HelloConsole\obj\Debug\net6.0\proect1_HelloConsole.dll
+D:\Lang_program\lekcia\proect1_HelloConsole\obj\Debug\net6.0\refint\proect1_HelloConsole.dll
+D:\Lang_program\lekcia\proect1_HelloConsole\obj\Debug\net6.0\proect1_HelloConsole.pdb
+D:\Lang_program\lekcia\proect1_HelloConsole\obj\Debug\net6.0\proect1_HelloConsole.genruntimeconfig.cache
+D:\Lang_program\lekcia\proect1_HelloConsole\obj\Debug\net6.0\ref\proect1_HelloConsole.dll
